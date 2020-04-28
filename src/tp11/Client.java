@@ -14,8 +14,8 @@ public abstract class Client {
 	
 	public boolean oneMore(Criterion c) {
 		if(this.list.contains(c)) return false;
-		this.list.add(c);
-		return true;
+		
+		return this.list.add(c);
 	}
 	public boolean manyMore(List<Criterion> requirements) {
 		for(Criterion c : requirements) {
