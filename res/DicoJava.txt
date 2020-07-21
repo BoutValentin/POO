@@ -1,0 +1,53 @@
+﻿abstract	Mot-clé	Déclaration d'une méthode ou d'une classe abstraite.
+assert	Mot-clé	Assertion
+break	Mot-clé	Interrompre une boucle ou un choix multiple.
+case	Mot-clé	Cas dans un choix multiple.
+catch	Mot-clé	Capture d'un type d'exception.
+class	Mot-clé	Déclaration d'une classe.
+continue	Mot-clé	Continuer une boucle en allant à l'itération suivante.
+default	Mot-clé	Cas par défaut dans un choix multiple.
+do	Mot-clé	Boucle itérative.
+else	Mot-clé	Exécution conditionnelle.
+enum	Mot-clé	Déclaration d'une énumération.
+extends	Mot-clé	Héritage : déclaration de la classe mère, ou pour une interface de toutes les interfaces mères.
+final	Mot-clé	Déclarer un membre comme final.
+finally	Mot-clé	Code exécuté quoi qu'il se passe dans un bloc de capture d'exception.
+for	Mot-clé	Boucle itérative.
+if	Mot-clé	Exécution conditionnelle.
+implements	Mot-clé	Déclaration des interfaces implémentées par une classe.
+import	Mot-clé	Déclaration des packages utilisés par une classe.
+instanceof	Mot-clé	Tester si un objet est de la classe indiquée (voir Transtypage).
+interface	Mot-clé	Déclaration d'une interface.
+native	Mot-clé	Déclaration d'une méthode native.
+new	Mot-clé	Allocation d'une instance de classe.
+package	Mot-clé	Déclaration du package de la classe.
+private	Mot-clé	Déclaration d'un membre privé de la classe.
+protected	Mot-clé	Déclaration d'un membre protégé de la classe.
+public	Mot-clé	Déclaration d'un membre public de la classe.
+return	Mot-clé	Retourner une valeur depuis une méthode.
+static	Mot-clé	Déclaration d'un membre statique de la classe.
+strictfp	Mot-clé	Déclaration d'une méthode ou classe où les opérations en virgule flottante doivent être évaluées strictement de gauche à droite selon la spécification Java.
+super	Mot-clé	Référence à l'instance de la classe mère.
+switch	Mot-clé	Début d'un choix multiple.
+synchronized	Mot-clé	Voir Processus légers et synchronisation.
+this	Mot-clé	Référence à l'instance de la classe englobante.
+throw	Mot-clé	Lever une exception.
+throws	Mot-clé	Déclaration des exceptions levées par une méthode.
+transient	Mot-clé	Déclaration d'un attribut à exclure de la sérialisation.
+try	Mot-clé	Capture d'un type d'exception.
+void	Mot-clé	Déclaration d'une méthode ne retournant aucune valeur.
+volatile	Mot-clé	Déclaration d'un attribut volatile, c'est à dire dont la valeur ne doit pas être mise en cache car elle est accédée par différents threads.
+while	Mot-clé	Boucle itérative.
+const	Réservé	Inutilisé actuellement.
+goto	Réservé	Inutilisé actuellement.
+boolean	Type de données	Valeur booléenne (vrai ou faux).
+byte	Type de données	Entier signé de -128 à +127.
+char	Type de données	Caractères Unicode (UTF-16, donc sur 16 bits).
+double	Type de données	Nombre à virgule flottante, double précision.
+float	Type de données	Nombre à virgule flottante, simple précision.
+int	Type de données	Entier signé de -2 147 483 648 à +2 147 483 647.
+long	Type de données	Entier signé de -9 223 372 036 854 775 808 à +9 223 372 036 854 775 807.
+short	Type de données	Entier signé de -32 768 à +32 767.
+false	Valeur littérale	Valeur booléenne fausse.
+null	Valeur littérale	Référence nulle.
+true	Valeur littérale	Valeur booléenne vraie.
